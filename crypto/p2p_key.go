@@ -20,8 +20,8 @@ import (
 	"crypto/ecdsa"
 	"reflect"
 
-	"github.com/ailabstw/go-pttai/log"
 	"github.com/btcsuite/btcd/btcec"
+	"github.com/ethereum/go-ethereum/log"
 	p2pcrypto "github.com/libp2p/go-libp2p-crypto"
 )
 
