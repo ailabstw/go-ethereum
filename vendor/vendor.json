@@ -159,6 +159,12 @@
 			"revisionTime": "2017-07-10T16:04:46Z"
 		},
 		{
+			"checksumSHA1": "jyCYGbN0KvpV6PasLXLOmNsaA3s=",
+			"path": "github.com/gogo/protobuf/proto",
+			"revision": "67e450fba6944c63d2f80b7553b0ef522d345962",
+			"revisionTime": "2019-04-15T06:16:11Z"
+		},
+		{
 			"checksumSHA1": "yqF125xVSkmfLpIVGrLlfE05IUk=",
 			"path": "github.com/golang/protobuf/proto",
 			"revision": "748d386b5c1ea99658fd69fe9f03991ce86a90c1",
@@ -274,6 +280,18 @@
 			"tree": true
 		},
 		{
+			"checksumSHA1": "IH31oeKIJt5eISQQvTrJ54BpTvM=",
+			"path": "github.com/libp2p/go-libp2p-crypto",
+			"revision": "9d2fed53443f745e6dc4d02bdcc94d9742a0ca84",
+			"revisionTime": "2019-04-11T20:11:16Z"
+		},
+		{
+			"checksumSHA1": "1V43yqBwtLT5QdmJvf+TuSa1Ed8=",
+			"path": "github.com/libp2p/go-libp2p-crypto/pb",
+			"revision": "9d2fed53443f745e6dc4d02bdcc94d9742a0ca84",
+			"revisionTime": "2019-04-11T20:11:16Z"
+		},
+		{
 			"checksumSHA1": "SEnjvwVyfuU2xBaOfXfwPD5MZqk=",
 			"path": "github.com/mattn/go-colorable",
 			"revision": "efa589957cd060542a26d2dd7832fd6a6c6c3ade",
@@ -291,6 +309,12 @@
 			"path": "github.com/mattn/go-runewidth",
 			"revision": "ce7b0b5c7b45a81508558cd1dba6bb1e4ddb51bb",
 			"revisionTime": "2018-04-08T05:53:51Z"
+		},
+		{
+			"checksumSHA1": "gZJzirZMwesl4SRDXFvpbvHXWpI=",
+			"path": "github.com/minio/sha256-simd",
+			"revision": "05b4dd3047e5d6e86cb4e0477164b850cd896261",
+			"revisionTime": "2019-03-28T05:10:42Z"
 		},
 		{
 			"checksumSHA1": "2jsbDTvwxafPp7FJjJ8IIFlTLjs=",
